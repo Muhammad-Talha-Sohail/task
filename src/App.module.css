@@ -1,0 +1,46 @@
+.main{
+
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: #000;
+}
+.inp
+{
+  margin-left: 10px;
+  border-radius: 5px;
+  border: 1px rgb(185, 159, 159) solid;
+  font-size: larger;
+  font-weight: 400;
+  text-align: center;
+}
+.header
+{
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  color: aliceblue;
+}
+
+.mapIn
+{
+ margin: 0px 10px;
+ width: 50px;
+ height: 40px;
+ border-radius: 5px;
+ border: 1px rgb(185, 159, 159) solid;
+ font-size: larger;
+ font-weight: 400;
+}
+.output
+{
+  
+ border-radius: 5px;
+ border: 1px rgb(185, 159, 159) solid;
+ font-size: larger;
+ font-weight: 400;
+ text-align: center;
+
+}
